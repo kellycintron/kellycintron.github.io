@@ -1,0 +1,23 @@
+body {
+	text-align:center; background-image: src="images/IMG_6787.jpg";
+}
+
+h1 {
+	font-family:Helvetica; font-size:150px; font-weight:bolder; font-color:#FFF;
+}
+
+p {
+	font-family:Helvetica; font-size:36px; font-weight:normal; font-color:#FFF;
+}
+
+#slogan {
+	font-family:Helvetica; font-size:75px; font-weight:normal; font-color:#FFF; font-style:italic;
+}
+
+ul {
+	font-family:Helvetica; font-size:30px; font-weight:normal; font-color:#FFF;
+}
+
+a {
+	font-family:Helvetica; font-size:36px; font-weight:normal; font-color:#FFF;
+}
