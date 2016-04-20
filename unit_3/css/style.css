@@ -1,23 +1,41 @@
 body {
-	text-align:center; background-image: src="images/IMG_6787.jpg";
+	text-align:center; 
+	background-image: src="images/IMG_6787.jpg"
+	background-size:cover;
 }
 
 h1 {
-	font-family:Helvetica; font-size:150px; font-weight:bolder; font-color:#FFF;
+	font-family:Helvetica; 
+	font-size:150px; 
+	font-weight:bold; 
+	font-color:#FFF;
 }
 
 p {
-	font-family:Helvetica; font-size:36px; font-weight:normal; font-color:#FFF;
+	font-family:Helvetica; 
+	font-size:26px; 
+	font-weight:normal; 
+	font-color:#FFF;
 }
 
 #slogan {
-	font-family:Helvetica; font-size:75px; font-weight:normal; font-color:#FFF; font-style:italic;
+	font-family:Helvetica; 
+	font-size:40px; 
+	font-weight:normal; 
+	font-color:#FFF; 
 }
 
 ul {
-	font-family:Helvetica; font-size:30px; font-weight:normal; font-color:#FFF;
+	font-family:Helvetica; 
+	font-size:20px; 
+	font-weight:normal; 
+	font-color:#FFF;
+	font-style:italic;
 }
 
 a {
-	font-family:Helvetica; font-size:36px; font-weight:normal; font-color:#FFF;
+	font-family:Helvetica; 
+	font-size:26px; 
+	font-weight:normal; 
+	font-color:#FFF;
 }
