@@ -1,41 +1,35 @@
-html { 
-  background: url(images/IMG_6787.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
 body {
-	text-align:center; 
+	background: #000 url(images/IMG_6787.jpg); 
+  	background-size:cover;
+  	text-align:center; 
 }
 
 h1 {
 	font-family:Helvetica; 
 	font-size:150px; 
 	font-weight:bold; 
-	font-color:#FFF;
+	color:#FFFFFF;
 }
 
 p {
 	font-family:Helvetica; 
 	font-size:26px; 
 	font-weight:normal; 
-	font-color:#FFF;
+	color:#FFFFFF;
 }
 
 #slogan {
 	font-family:Helvetica; 
 	font-size:40px; 
 	font-weight:normal; 
-	font-color:#FFF; 
+	color:#FFFFFF; 
 }
 
 ul {
 	font-family:Helvetica; 
 	font-size:20px; 
 	font-weight:normal; 
-	font-color:#FFF;
+	color:#FFFFFF;
 	font-style:italic;
 }
 
@@ -43,5 +37,5 @@ a {
 	font-family:Helvetica; 
 	font-size:26px; 
 	font-weight:normal; 
-	font-color:#FFF;
+	color:#FFFFFF;
 }
