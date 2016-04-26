@@ -1,5 +1,10 @@
+html, body { height: 100%; min-height: 100vh; 
+
+}
+
 body {
-	background: #000 url(images/IMG_6787.jpg) no-repeat center center; 
+
+	background: #000 url(../images/IMG_0955.jpg) no-repeat center center; 
   	background-size:cover;
   	text-align:center;
   	font-family: Helvetica; 
@@ -18,7 +23,7 @@ p {
 }
 
 #slogan { 
-	font-size:35px; 
+	font-size:30px; 
 	font-weight:normal; 
 	color:#FFFFFF; 
 }
@@ -29,7 +34,9 @@ ul {
 	color:#FFFFFF;
 	font-style:italic;
 	text-align:left; 
-	text-indent: 450px;
+	list-style-position:inside;
+	width:300px;
+	margin:0 auto;
 }
 
 a { 
